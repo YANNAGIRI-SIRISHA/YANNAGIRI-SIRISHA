@@ -3,7 +3,7 @@
 
 🔭 Currently working on: Full Stack Web Projects, SQL Analytics  
 🌱 Learning: React.js, MongoDB, Power BI 
-📫 Reach me: yannagirisirisha@gmail.com | [LinkedIn](https://linkedin.com/in/sirisha)
+📫 Reach me: yannagirisirisha@gmail.com | [LinkedIn](www.linkedin.com/in/sirisha-yannagiri)
 
 ---
 
