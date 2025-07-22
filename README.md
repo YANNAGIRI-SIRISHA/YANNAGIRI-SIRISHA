@@ -8,4 +8,4 @@
 ---
 
 ### ⚡ Technologies & Tools:
-Java • Python • SQL • HTML • CSS • JavaScript • Git • React • Node.js • MongoDB • PostgreSQL
+Java • Python • SQL • HTML • CSS • JavaScript • Git • React • Node.js • MongoDB 
